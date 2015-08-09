@@ -116,10 +116,9 @@
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".1s"></i>
-                        <h3>Merline's World</h3>
+                        <h3>Merline Put Your Stuff Here</h3>
                         <p class="text-muted">Merline's Stuff</p>
-                        <img src="https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/11351684_955627494469323_740568135_n.jpg" height="300" width="300"/>
-    </center>
+                        <p> I can add things right here </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
